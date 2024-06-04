@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Profile]
+       [dbo].[User]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[Profile] (Table)
+       [dbo].[User] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Profile_User] (Foreign Key)
+     Create
+       [dbo].[FK_Profile_User] (Foreign Key)
+     Refresh
+       [dbo].[Fulluser] (View)

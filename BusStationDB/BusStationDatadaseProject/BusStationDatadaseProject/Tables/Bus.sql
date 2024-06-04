@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Bus]
+(
+	[id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [seats] INT NOT NULL 
+)

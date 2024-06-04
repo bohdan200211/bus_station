@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Station]
+(
+	[id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY, 
+    [name] NCHAR(80) NOT NULL UNIQUE
+)

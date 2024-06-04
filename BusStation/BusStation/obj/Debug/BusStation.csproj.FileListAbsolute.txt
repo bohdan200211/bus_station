@@ -1,0 +1,14 @@
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.csprojAssemblyReference.cache
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.Properties.Resources.resources
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.csproj.GenerateResource.cache
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\bin\Debug\BusStation.exe.config
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\bin\Debug\BusStation.exe
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\bin\Debug\BusStation.pdb
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\bin\Debug\Dapper.dll
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\bin\Debug\Dapper.xml
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.csproj.CopyComplete
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.exe
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.pdb
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.MainForm.resources
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.Forms.Authorization.resources
+D:\TNTU\3_course\Курсова\source code\BusStation\BusStation\BusStation\obj\Debug\BusStation.Forms.AdminFrom.resources

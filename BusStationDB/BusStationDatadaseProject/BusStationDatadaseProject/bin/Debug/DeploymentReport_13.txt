@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Bus]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Bus].[id_type] is being dropped, data loss could occur.
+
+** User actions
+     Rename
+       [dbo].[Bus].[seats] (Column)
+     Table rebuild
+       [dbo].[Bus] (Table)
+
+** Supporting actions
+
+The column [dbo].[Bus].[id_type] is being dropped, data loss could occur.
+
